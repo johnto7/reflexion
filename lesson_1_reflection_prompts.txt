@@ -1,0 +1,33 @@
+¿Cómo surgió la visualización de un diff entre dos versiones de un archivo de ayuda que se ve el error que 
+se introdujo? 
+
+   MENOS TRABAJO TEDIOSO 
+
+cómo podría tener fácil acceso a toda la historia de un archivo te hacen un mayor 
+programador eficiente a largo plazo? 
+
+    GOOGLE DRIVE SUEENA BIEN 
+
+¿Qué cree usted que son los pros y los contras de elegir manualmente cuándo crear una 
+confirmación, como se hace en Git, frente a tener versiones guardan automáticamente, como Google 
+Docs no? 
+
+    Rellena su respuesta aquí 
+
+¿por qué creen que algunos de control de versiones sistemas, como Git, permiten guardar múltiples 
+archivos en un solo compromiso, mientras que otros, como Google Docs, tratan a cada archivo por separado? 
+
+    Complete su respuesta aquí 
+
+¿Cómo se puede utilizar el registro de comandos git y git diff para ver el historial de archivos? 
+
+    Complete su respuesta aquí 
+
+¿Cómo podría usar el control de versiones que se sienta más seguro de hacer cambios que 
+podrían romper algo? 
+
+    Rellena su respuesta aquí 
+
+Ahora que tiene su espacio de trabajo creado, ¿qué es lo que desea intentar usar Git para? 
+
+    Complete su respuesta aquí
